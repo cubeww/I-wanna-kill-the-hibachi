@@ -1,0 +1,7 @@
+sprite=sprBulletDir_A_XL_Pink
+visible=1
+solid=0
+persistent=0
+depth=0
+parent=BulletParent
+mask=
